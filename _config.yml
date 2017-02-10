@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 少年的奇幻旅行
+title: 神秘挑战者
 subtitle:
 description:
 author: zqq
@@ -74,3 +74,5 @@ deploy:
   repo: git@github.com:missRoser/missroser.github.io.git
   branch: master
 #git@github.com:jiji262/jiji262.github.io.git
+
+#<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8"></script>
